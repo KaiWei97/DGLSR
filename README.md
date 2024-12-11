@@ -1,4 +1,4 @@
 # DGLSR
-paper: ***Few-shot Intent Detection with Mutual Information and Contrastive Learning***
+paper: ***Distribution-guided Graph Learning for Sequential Recommendation***
 
 Our code will be released after the paper is accepted
